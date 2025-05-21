@@ -1,4 +1,4 @@
-🚀 SSMS & SQL Playground Mini-Project: Tracking Uninvoiced Orders and Recoverable Amounts
+🚀 **SSMS & SQL Playground Mini-Project: Tracking Uninvoiced Orders and Recoverable Amounts**
 
 📌 Context and Objectives
 
